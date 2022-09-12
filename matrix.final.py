@@ -1,6 +1,6 @@
 
 
-# exercicio
+# Produit de matrices
 # uma funcao que faca o produto de um numero qq de matrizes
 
 
