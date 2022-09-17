@@ -1,6 +1,6 @@
 
 
-# Produit de matrices
+# Produit de matrices sans numpy
 # uma funcao que faca o produto de um numero qq de matrizes
 
 
